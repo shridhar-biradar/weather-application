@@ -26,7 +26,6 @@ This is a Django-based web application that allows users to fetch and display re
 ### **Frontend:**  
 - HTML  
 - CSS  
-- JavaScript  
 
 ### **Backend:**  
 - Django Framework (Python)  
